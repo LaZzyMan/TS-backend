@@ -1,0 +1,11 @@
+/venv
+/.idea
+/.vscode
+/data
+/TS/data
+/__pycache__
+/TS/__pycache__
+/TS_backend/migrations/__pycache__
+/TS/migrations/__pycache__
+/TS_backend/__pycache__
+/web/__pycache__
